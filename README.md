@@ -1,5 +1,5 @@
 - 👋 Hi! I’m @RiviCodes
-- 🧶 I’m interested in mystery and crime novels.
-- 🌱 Currently learning HTML5, CSS & JavaScript, as well as efficient ways to code.
+- 🧶 I’m interested in mystery and crime novels
+- 🌱 Currently learning HTML5, CSS & JavaScript, as well as efficient ways to code
 - 👥 Looking to collaborate on [soon]
 - 📬 How to reach me: riveramon20@gmail.com
