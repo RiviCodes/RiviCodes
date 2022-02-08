@@ -6,7 +6,7 @@
   <li>🧶 I’m interested in web development & efficient ways to code</li>
   <li>🌱 Currently learning JavaScript & React</li>
   <li>💬 Ask me about <strong>JavaScript</strong></li>
-  <li>👥 Looking to collaborate on [soon]</li>
+  <li>👥 Looking to collaborate on web applications</li>
   <li>📬 How to reach me: riveramon20@gmail.com</li>
 </ul>
 
