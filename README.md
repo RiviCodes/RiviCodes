@@ -38,7 +38,7 @@
       alt="LinkedIn" height="30" width="40"/></a> 
   <a href="https://www.twitter.com/monriveram" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="mailto:riveramon20@gmail.com?subject=[GitHub]%20Hello%20there,%20RiviCodes!" target="blank"><img align="center"
+  <a href="mailto:jose.riveramz@udlap.mx?subject=[GitHub]%20Hello%20there,%20RiviCodes!" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
       alt="Gmail" height="30" width="30"/></a>
 </p>
