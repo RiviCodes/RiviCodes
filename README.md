@@ -5,7 +5,7 @@
 <ul>
   <li>🧶 I’m interested in web development & efficient ways to code</li>
   <li>🌱 Currently learning <strong>React</strong> ⚛️</li>
-  <li>💬 Ask me about <strong>HTML5, CSS and JavaScript</strong></li>
+  <li>💬 Ask me about <strong>HTML5, CSS & JavaScript</strong></li>
   <li>👥 Looking to collaborate on web applications</li>
 </ul>
 
