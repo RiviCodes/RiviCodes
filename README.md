@@ -8,7 +8,7 @@
   <li>🌱 Currently learning <strong>React</strong> ⚛️</li>
   <li>🎯 Next on the list: <strong>React Native</strong> & <strong>Swift</strong></li>
   <li>💬 Ask me about <strong>HTML5, CSS & JavaScript</strong></li>
-  <li>👥 Looking to collaborate on web & frontend development</li>
+  <li>🤝 Looking to collaborate on web & frontend development</li>
 </ul>
 
 <br>
