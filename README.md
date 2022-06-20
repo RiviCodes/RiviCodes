@@ -3,7 +3,8 @@
 <br>
 
 <ul>
-  <li>🧶 I’m interested in web development & efficient ways to code</li>
+  <li>🧶 I’m interested in web development, mobile development & efficient ways to code</li>
+  <li>💼 My portfolio website: https://rivicodes.github.io/personal-portfolio-website/</li>
   <li>🌱 Currently learning <strong>React</strong> ⚛️</li>
   <li>🎯 Next on the list: <strong>React Native</strong> & <strong>Swift</strong></li>
   <li>💬 Ask me about <strong>HTML5, CSS & JavaScript</strong></li>
