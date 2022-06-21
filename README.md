@@ -9,7 +9,7 @@
   <li>🎯 Next on the list: <strong>React Native</strong> & <strong>Swift</strong></li>
   <li>💬 Ask me about <strong>HTML5, CSS & JavaScript</strong></li>
   <li>🤝 Looking to collaborate on web & frontend development</li>
-  <li>💼 My portfolio website: https://rivicodes.github.io/personal-portfolio-website/</li>
+  <li>💼 My portfolio website: <strong>https://rivicodes.github.io/personal-portfolio-website/</strong></li>
 </ul>
 
 <br>
