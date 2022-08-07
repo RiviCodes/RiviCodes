@@ -7,7 +7,7 @@
   <li>🧶 I’m interested in web development, mobile development & efficient ways to code</li>
   <li>🌱 Currently learning <strong>React</strong> ⚛️</li>
   <li>🎯 Next on the list: <strong>React Native</strong> & <strong>Swift</strong></li>
-  <li>💬 Ask me about <strong>HTML5, CSS & JavaScript</strong></li>
+  <li>💬 Ask me about <strong>FrontEnd Development</strong></li>
   <li>🤝 Looking to collaborate on web & frontend development</li>
   <li>💼 My portfolio website: <strong>https://rivicodes.github.io/personal-portfolio-website/</strong></li>
 </ul>
