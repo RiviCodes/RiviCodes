@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-  <li>⚡️ Software Dev</li>
+  <li>⚡️ Software Developer</li>
   <li>🧶 CS Student</li>
   <li>💼 Personal portfolio <strong>https://rivicodes.github.io/personal-portfolio-website/</strong></li>
 </ul>
