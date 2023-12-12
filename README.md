@@ -1,15 +1,11 @@
 <h1 align="center">Hi! 👋 I’m @RiviCodes</h1>
-<h3 align="center">Software Developer #🇲🇽</h3>
 
 <br>
 
 <ul>
-  <li>🧶 I’m interested in web development, mobile development & efficient ways to code</li>
-  <li>🌱 Currently learning <strong>React</strong> ⚛️</li>
-  <li>🎯 Next on the list: <strong>React Native</strong> & <strong>Swift</strong></li>
-  <li>💬 Ask me about <strong>FrontEnd Development</strong></li>
-  <li>🤝 Looking to collaborate on Web & FrontEnd Development</li>
-  <li>💼 My portfolio website: <strong>https://rivicodes.github.io/personal-portfolio-website/</strong></li>
+  <li>⚡️ Software Dev</li>
+  <li>🧶 CS Student</li>
+  <li>💼 Personal portfolio <strong>https://rivicodes.github.io/personal-portfolio-website/</strong></li>
 </ul>
 
 <br>
