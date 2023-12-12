@@ -1,10 +1,11 @@
-<h1 align="center">Hi! 👋 I’m @RiviCodes</h1>
+<h1 align="center">Hello there! 👋 I’m @RiviCodes</h1>
 
 <br>
 
 <ul>
   <li>⚡️ Software Developer</li>
   <li>🧶 CS Student</li>
+  <li>🍂 Coffee keeps me coding</li>
   <li>💼 <a href="https://rivicodes.github.io/personal-portfolio-website/" target="_blank">Personal portfolio</a></li>
 </ul>
 
