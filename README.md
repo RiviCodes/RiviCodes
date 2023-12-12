@@ -22,7 +22,7 @@
     <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"
       alt="bootstrap" width="auto" height="40" /> </a> <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+      width="40" height="40" /> </a>
 
 <!-- HTML5 -->
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -46,6 +46,9 @@
 
 <!-- TypeScript -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> -->
+
+<!-- PHP -->
+<!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
 
 <!-- WordPress -->
 <!-- <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/RiviCodes/personal-portfolio-website/blob/main/images/wordpress.png?raw=true" alt="php" width="40" height="40"/> </a> -->
