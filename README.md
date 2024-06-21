@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,bootstrap,tailwind,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,java,python&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 
