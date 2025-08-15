@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there! I'm Mon</h1>
 
 <p align="center">
-  <em>Software Developer • CS Student • Coffee Enthusiast</em>
+  <em>Software Developer • CS Engineer • Coffee Enthusiast</em>
 </p>
 
 ---
@@ -9,14 +9,14 @@
 ## 🚀 About Me
 
 - ⚡ **Software Developer** focused on building clean, scalable, and user-friendly solutions.
-- 🧶 **Computer Science Student** continuously learning and exploring new technologies.
+- 🧶 **Computer Science Engineer** continuously learning and exploring new technologies.
 - 🍂 Fueled by **coffee** and curiosity.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,java,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,astro,bootstrap,tailwind,java,python&theme=light)](https://skillicons.dev)
 
 ---
 
