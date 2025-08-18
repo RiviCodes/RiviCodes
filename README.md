@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- ⚡ **Software Developer** focused on building clean, scalable, and user-friendly solutions.
-- 🚀 **Computer Systems Engineer** continuously learning and exploring new technologies.
-- 🍂 Fueled by **coffee** and curiosity.
+- ⚡ **Software Developer**
+- 🚀 **Computer Systems Engineer**
+- 🍂 **Coffee enthusiast**
 
 ---
 
