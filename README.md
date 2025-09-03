@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,astro,tailwind,bootstrap,wordpress,java,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,astro,tailwind,bootstrap,git,vite,vercel,wordpress,php,python,java&theme=light)](https://skillicons.dev)
 
 <br>
 
