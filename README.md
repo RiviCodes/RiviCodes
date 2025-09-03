@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-Software Developer with a background in Computer Systems Engineering and experience in Front-End Development.
+- ⚡️ **Software Developer** with a background in Computer Systems Engineering and experience in **Front-End Development**.
 
-I enjoy building responsive and user-friendly web interfaces using modern technologies such as JavaScript, React, Astro, and Tailwind CSS.
+- 👨‍💻 I enjoy building responsive and user-friendly web interfaces using modern technologies such as **JavaScript**, **React**, **Astro**, and **Tailwind CSS**.
 
-Motivated by curiosity and passionate about the technology field.
+- 🍂 Motivated by curiosity and passionate about the technology field.
 
 <br>
 
